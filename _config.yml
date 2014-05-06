@@ -1,0 +1,27 @@
+markdown: rdiscount
+pygments: true
+
+title: Liquid Inertia 
+
+url: http://www.liquidinertia.com
+
+devurl: localhost:4000
+
+permalink: /:year/:month/:day/:title/
+
+author:
+    name: Chris Wynkoop 
+    email: macduff@liquidinertia.com 
+    github: macduff
+    gravatar: http://www.gravatar.com/avatar/d9f27dd2165db5482c9c062cccf0a83c.jpeg
+
+comments:
+    provider: disqus
+    disqus:
+        short_name: liquidinertia
+        
+analytics:
+    provider: google 
+    google: 
+        tracking_id: 'UA-39095884-1'
+        domain: 'liquidinertia.com'
